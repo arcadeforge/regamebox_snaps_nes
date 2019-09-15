@@ -1,0 +1,1 @@
+# nes snaps for regamebox
